@@ -13,6 +13,9 @@
     <SourceRoot Include="C:\Users\jhnev\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)blazormonaco\3.1.0\buildTransitive\BlazorMonaco.props" Condition="Exists('$(NuGetPackageRoot)blazormonaco\3.1.0\buildTransitive\BlazorMonaco.props')" />
+  </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_AspNetCore_Components_WebAssembly_Server Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_Server)' == '' ">C:\Users\jhnev\.nuget\packages\microsoft.aspnetcore.components.webassembly.server\7.0.9</PkgMicrosoft_AspNetCore_Components_WebAssembly_Server>
   </PropertyGroup>

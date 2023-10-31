@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8NY3GDcT+Vwloy9DQZ/pPfc5gbBIOaeSei2x4UXWj5c4p5GGVCh++WEbWqsoWqX1WsaXn6qZNStnpgsZE4Vv1g==",
+  "dgSpecHash": "rwKmBUpXTvkZdqPniwbljq2X8PunwrUp/gLneoKx0B9ORoSc8/9FEkIWgOu5gJxJIc6HDHnj1Jwpl9eJRZzXuw==",
   "success": true,
   "projectFilePath": "D:\\Documents\\STP\\STP\\Client\\STP.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jhnev\\.nuget\\packages\\blazormonaco\\3.1.0\\blazormonaco.3.1.0.nupkg.sha512",
     "C:\\Users\\jhnev\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.9\\microsoft.aspnetcore.authorization.7.0.9.nupkg.sha512",
     "C:\\Users\\jhnev\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.9\\microsoft.aspnetcore.components.7.0.9.nupkg.sha512",
     "C:\\Users\\jhnev\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.9\\microsoft.aspnetcore.components.analyzers.7.0.9.nupkg.sha512",
@@ -28,6 +29,7 @@
     "C:\\Users\\jhnev\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\jhnev\\.nuget\\packages\\microsoft.jsinterop\\7.0.9\\microsoft.jsinterop.7.0.9.nupkg.sha512",
     "C:\\Users\\jhnev\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.9\\microsoft.jsinterop.webassembly.7.0.9.nupkg.sha512",
+    "C:\\Users\\jhnev\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\jhnev\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\jhnev\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\jhnev\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
