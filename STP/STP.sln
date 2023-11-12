@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STP.Server", "Server\STP.Server.csproj", "{D22B754A-F445-4E33-A53E-91750EB3C783}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "STP.Server", "Server\STP.Server.csproj", "{D22B754A-F445-4E33-A53E-91750EB3C783}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STP.Client", "Client\STP.Client.csproj", "{A5E0135E-F491-4E90-8594-E8BE67B0FD87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "STP.Client", "Client\STP.Client.csproj", "{A5E0135E-F491-4E90-8594-E8BE67B0FD87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STP.Shared", "Shared\STP.Shared.csproj", "{1FA3E086-2A1A-4206-AAC7-7BAAD0D9D01B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "STP.Shared", "Shared\STP.Shared.csproj", "{1FA3E086-2A1A-4206-AAC7-7BAAD0D9D01B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
