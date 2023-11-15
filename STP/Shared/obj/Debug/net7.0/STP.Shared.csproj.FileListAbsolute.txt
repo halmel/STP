@@ -10,3 +10,15 @@ D:\Documents\STP\STP\Shared\obj\Debug\net7.0\STP.Shared.dll
 D:\Documents\STP\STP\Shared\obj\Debug\net7.0\refint\STP.Shared.dll
 D:\Documents\STP\STP\Shared\obj\Debug\net7.0\STP.Shared.pdb
 D:\Documents\STP\STP\Shared\obj\Debug\net7.0\ref\STP.Shared.dll
+C:\Users\Jiri\ŠKOLA\STP\STP\Shared\bin\Debug\net7.0\STP.Shared.deps.json
+C:\Users\Jiri\ŠKOLA\STP\STP\Shared\bin\Debug\net7.0\STP.Shared.dll
+C:\Users\Jiri\ŠKOLA\STP\STP\Shared\bin\Debug\net7.0\STP.Shared.pdb
+C:\Users\Jiri\ŠKOLA\STP\STP\Shared\obj\Debug\net7.0\STP.Shared.csproj.AssemblyReference.cache
+C:\Users\Jiri\ŠKOLA\STP\STP\Shared\obj\Debug\net7.0\STP.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jiri\ŠKOLA\STP\STP\Shared\obj\Debug\net7.0\STP.Shared.AssemblyInfoInputs.cache
+C:\Users\Jiri\ŠKOLA\STP\STP\Shared\obj\Debug\net7.0\STP.Shared.AssemblyInfo.cs
+C:\Users\Jiri\ŠKOLA\STP\STP\Shared\obj\Debug\net7.0\STP.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Jiri\ŠKOLA\STP\STP\Shared\obj\Debug\net7.0\STP.Shared.dll
+C:\Users\Jiri\ŠKOLA\STP\STP\Shared\obj\Debug\net7.0\refint\STP.Shared.dll
+C:\Users\Jiri\ŠKOLA\STP\STP\Shared\obj\Debug\net7.0\STP.Shared.pdb
+C:\Users\Jiri\ŠKOLA\STP\STP\Shared\obj\Debug\net7.0\ref\STP.Shared.dll

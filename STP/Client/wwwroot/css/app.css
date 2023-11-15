@@ -99,3 +99,11 @@ a, .btn-link {
     .loading-progress-text:after {
         content: var(--blazor-load-percentage-text, "Loading");
     }
+
+.monaco-editor-container {
+    height: auto;
+    min-height: 35vh
+}
+.page{
+    overflow:hidden;
+}

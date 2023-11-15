@@ -3,4 +3,20 @@
 
 <StandaloneCodeEditor Id="my-editor-instance-id" />
 <p class="test"></p>
-<div style="height:100vh"><StandaloneCodeEditor Id="my-editor-instance-id" /></div>
+<StandaloneCodeEditor Id="my-editor-instance-id" ConstructionOptions="EditorConstructionOptions" />
+@code{
+	private StandaloneEditorConstructionOptions EditorConstructionOptions(StandaloneCodeEditor editor)
+	{
+		return new StandaloneEditorConstructionOptions
+			{
+				AutomaticLayout = true,
+				Language = "javascript",
+				Value = "function xyz() {\n" +
+						"   console.log(\"Hello world!\");\n" +
+						"}"
+			};
+	}
+
+
+
+}

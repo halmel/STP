@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-H3OSuFN79yvhEerCYX8dUATyCDl2\/tDTU7VEgxVrWHo=",
+      "hash": "sha256-9ghhkzRTt1RRiz8+e1uEsUIplUI+0jKF2E10NjfTwlo=",
       "url": "css\/app.css"
     },
     {
@@ -61,7 +61,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-C82ioNTGHBkRS9mk7KQt3u+lDZ\/8r88W6a3QT24R1Co=",
+      "hash": "sha256-Gy3TQ9DRRtvOzF66w4hH1Zep\/beRpDU0c1lKvsqmvwU=",
       "url": "index.html"
     },
     {
@@ -845,8 +845,8 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-4dEEo1OTQRD48Vhgr8PHv7j5uZEQpurf3xGqGSUlwOE=",
-      "url": "_framework\/dotnet.7.0.9.lw4b31vkgu.js"
+      "hash": "sha256-cPJgWy8SjMaYFeimGkYy23ls+rDZVmoC\/eMoHpqRc+4=",
+      "url": "_framework\/dotnet.7.0.12.5ctcl5a4iz.js"
     },
     {
       "hash": "sha256-dKqztlnWPN3rvLJRCI444rLYX55dtIQt\/DQkFslO+z4=",
@@ -873,19 +873,19 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-kOBU6zThOLyW3BzC3\/KDf++bc3EYxly7qQv\/Vt27a8c=",
+      "hash": "sha256-oQOkkybftkcWAFMO\/pasY7Dtf6HgAdGHYyH1FFYhnxs=",
       "url": "_framework\/STP.Shared.dll"
     },
     {
-      "hash": "sha256-FqzaBnZEJDAanXszT49CYXBSfYb5138aZpGcn04Mt7k=",
+      "hash": "sha256-JtQbkrpeAKc+kdBeSld9MqeGokrywfYVncVRDXyWJr4=",
       "url": "_framework\/STP.Shared.pdb"
     },
     {
-      "hash": "sha256-YQdnLOIiYgrJeti\/47fNktLN6CPdHk7Zyosw1RFa7xM=",
+      "hash": "sha256-LtzV2vR8qVC3j5h0NZv9MB4cCgRWG3fHVBsuRdRgy6o=",
       "url": "_framework\/STP.Client.dll"
     },
     {
-      "hash": "sha256-H9datGrlpb9Q7ZDljq8kq6YqZzjL3Ojv1\/qE1\/KQy70=",
+      "hash": "sha256-z4Z\/DMFqXWUvrr5\/OFOWvw2q2rj3nSyPi1aPNU9UhL4=",
       "url": "_framework\/STP.Client.pdb"
     },
     {
@@ -893,7 +893,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-9Rwi0mwRPlasCIEHBu0mt\/f+rO03XvVxezk9BgM9upg=",
+      "hash": "sha256-gEprAgemQXkdXVcwRIYbW5xhs7IhS73AhfcuNFoZqEs=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1877,5 +1877,5 @@
       "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/loader.min.js"
     }
   ],
-  "version": "RxkmmXKn"
+  "version": "Hy8wD\/35"
 };

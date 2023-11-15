@@ -9,13 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = STP.Server
 build_property.RootNamespace = STP.Server
-build_property.ProjectDir = D:\Documents\STP\STP\Server\
+build_property.ProjectDir = C:\Users\Jiri\ŠKOLA\STP\STP\Server\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Documents\STP\STP\Server
+build_property.MSBuildProjectDirectory = C:\Users\Jiri\ŠKOLA\STP\STP\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Documents/STP/STP/Server/Pages/Error.cshtml]
+[C:/Users/Jiri/ŠKOLA/STP/STP/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
