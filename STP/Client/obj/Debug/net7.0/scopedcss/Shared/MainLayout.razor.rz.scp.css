@@ -80,9 +80,10 @@ main[b-lc15t3ddm7] {
     }
 }
 
-.main-code[b-lc15t3ddm7]{
-    height:100vh;
-    padding: 0.5rem 1rem;
+.main-code[b-lc15t3ddm7] {
+    height: 100vh;
+    padding-top: 1.7rem !important;
+    padding-bottom: 3rem !important;
     display: flex;
     justify-content: stretch;
     flex-direction: column;

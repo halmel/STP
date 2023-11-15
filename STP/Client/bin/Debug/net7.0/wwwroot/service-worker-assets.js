@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-H5SyUsArACcptOih63I7xkJRtd5EwmttfvDY0PfndtM=",
+      "hash": "sha256-uu0LGG6JVS6zNifSAs0wzLL5fQ4H1NWXYpKhzmYa214=",
       "url": "css\/app.css"
     },
     {
@@ -69,7 +69,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-ReEzubX8mPhCjQSe5zzPg+ZFyt3KflURU2b9UYFQUFE=",
+      "hash": "sha256-9MVycvMPUhQGUhVq8zl2OW2hC8xsPevaXD08YlVfzZw=",
       "url": "STP.Client.styles.css"
     },
     {
@@ -1877,5 +1877,5 @@
       "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/loader.min.js"
     }
   ],
-  "version": "3+Ijb8eA"
+  "version": "beOz8mp7"
 };
