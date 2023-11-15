@@ -80,6 +80,14 @@ main[b-lc15t3ddm7] {
         padding-right: 1.5rem !important;
     }
 }
+
+.main-code[b-lc15t3ddm7]{
+    height:100vh;
+    padding: 0.5rem 1rem;
+    display: flex;
+    justify-content: stretch;
+    flex-direction: column;
+}
 /* /Shared/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-ykfj6xpfb8] {
     background-color: rgba(255, 255, 255, 0.1);

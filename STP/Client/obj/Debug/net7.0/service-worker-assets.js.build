@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-9ghhkzRTt1RRiz8+e1uEsUIplUI+0jKF2E10NjfTwlo=",
+      "hash": "sha256-H5SyUsArACcptOih63I7xkJRtd5EwmttfvDY0PfndtM=",
       "url": "css\/app.css"
     },
     {
@@ -69,7 +69,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-8htyY5QmihF73F+pcVrw+ddApOsULZwNqxGwleHm1AA=",
+      "hash": "sha256-ReEzubX8mPhCjQSe5zzPg+ZFyt3KflURU2b9UYFQUFE=",
       "url": "STP.Client.styles.css"
     },
     {
@@ -881,11 +881,11 @@
       "url": "_framework\/STP.Shared.pdb"
     },
     {
-      "hash": "sha256-LtzV2vR8qVC3j5h0NZv9MB4cCgRWG3fHVBsuRdRgy6o=",
+      "hash": "sha256-PxaGsh+U+jsMnIPhjCq8J4+Cd7EPuTlVolMm80bt6D4=",
       "url": "_framework\/STP.Client.dll"
     },
     {
-      "hash": "sha256-z4Z\/DMFqXWUvrr5\/OFOWvw2q2rj3nSyPi1aPNU9UhL4=",
+      "hash": "sha256-1m9SFTBmCs7MsUfZ7J8leqGrrLQ0oK3wvpNegAQV1VA=",
       "url": "_framework\/STP.Client.pdb"
     },
     {
@@ -893,7 +893,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-gEprAgemQXkdXVcwRIYbW5xhs7IhS73AhfcuNFoZqEs=",
+      "hash": "sha256-bEnTEtSXqt+JSlQM5at\/LENECP2VzgA5B8swi6w4Vvo=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1877,5 +1877,5 @@
       "url": "_content\/BlazorMonaco\/lib\/monaco-editor\/min\/vs\/loader.min.js"
     }
   ],
-  "version": "Hy8wD\/35"
+  "version": "3+Ijb8eA"
 };

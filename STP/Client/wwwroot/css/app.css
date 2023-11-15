@@ -101,8 +101,7 @@ a, .btn-link {
     }
 
 .monaco-editor-container {
-    height: auto;
-    min-height: 35vh
+    height: 100vh;
 }
 .page{
     overflow:hidden;

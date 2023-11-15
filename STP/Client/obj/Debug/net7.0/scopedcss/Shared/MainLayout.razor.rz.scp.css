@@ -79,3 +79,11 @@ main[b-lc15t3ddm7] {
         padding-right: 1.5rem !important;
     }
 }
+
+.main-code[b-lc15t3ddm7]{
+    height:100vh;
+    padding: 0.5rem 1rem;
+    display: flex;
+    justify-content: stretch;
+    flex-direction: column;
+}

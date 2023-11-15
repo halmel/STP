@@ -79,3 +79,11 @@ main {
         padding-right: 1.5rem !important;
     }
 }
+
+.main-code{
+    height:100vh;
+    padding: 0.5rem 1rem;
+    display: flex;
+    justify-content: stretch;
+    flex-direction: column;
+}
